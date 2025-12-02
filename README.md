@@ -1,4 +1,4 @@
-# LouBot AI - Advanced AI-Powered Drone Assistant
+# LouBot AI - Neuro-Symbolic Cognitive Agent for Autonomous Aerial Robotics
 
 **LouBot AI** is a comprehensive AI-powered drone assistant that combines natural language processing, computer vision, drone control, and advanced authentication systems. Built with Django, AIML, YOLO object detection, and WebAuthn biometric authentication.
 
